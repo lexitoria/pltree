@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T01:05:23.221Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="cynPIXQKle0iY3R8k4yY" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T01:37:36.218Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="UI8HKmOcCfETRf6fNN0p" version="21.3.2" type="github">
   <diagram name="Tree" id="KBvRU3A3p2nGMIXXvxWt">
-    <mxGraphModel dx="1466" dy="1151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="3500" math="0" shadow="0">
+    <mxGraphModel dx="5130" dy="4030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="3500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -365,9 +365,14 @@
         <mxCell id="UrL7DcTW2N4OfELLKphQ-126" value="Object Pascal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4360" y="1160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UrL7DcTW2N4OfELLKphQ-128" value="Delphi 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5800" y="1200" width="80" height="30" as="geometry" />
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1361" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-128" target="UrL7DcTW2N4OfELLKphQ-1304">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <UserObject label="Delphi 1" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-128">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="5800" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="UrL7DcTW2N4OfELLKphQ-130" value="Free Pascal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4520" y="1160" width="80" height="30" as="geometry" />
         </mxCell>
@@ -375,16 +380,7 @@
           <mxGeometry x="2280" y="1200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UrL7DcTW2N4OfELLKphQ-134" value="Oxygene" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6280" y="1120" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UrL7DcTW2N4OfELLKphQ-137" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-136" target="UrL7DcTW2N4OfELLKphQ-134">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2400" y="1255" />
-              <mxPoint x="2400" y="1080" />
-              <mxPoint x="4680" y="1080" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="7400" y="1240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UrL7DcTW2N4OfELLKphQ-136" value="Eiffel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2120" y="1240" width="80" height="30" as="geometry" />
@@ -1543,27 +1539,239 @@
         <mxCell id="UrL7DcTW2N4OfELLKphQ-1300" value="Turbo Pascal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3880" y="1200" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UrL7DcTW2N4OfELLKphQ-1304" value="Delphi 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5960" y="1200" width="80" height="30" as="geometry" />
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1360" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1304" target="UrL7DcTW2N4OfELLKphQ-1305">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UrL7DcTW2N4OfELLKphQ-1305" value="Delphi 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6120" y="1200" width="80" height="30" as="geometry" />
+        <UserObject label="Delphi 2" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1304">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="5960" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1359" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1305" target="UrL7DcTW2N4OfELLKphQ-1306">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UrL7DcTW2N4OfELLKphQ-1306" value="Delphi 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6280" y="1200" width="80" height="30" as="geometry" />
+        <UserObject label="Delphi 3" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1305">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="6120" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1358" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1306" target="UrL7DcTW2N4OfELLKphQ-1307">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UrL7DcTW2N4OfELLKphQ-1307" value="Delphi 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6440" y="1200" width="80" height="30" as="geometry" />
+        <UserObject label="Delphi 4" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1306">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="6280" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1357" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1307" target="UrL7DcTW2N4OfELLKphQ-1308">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UrL7DcTW2N4OfELLKphQ-1308" value="Delphi 6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6760" y="1200" width="80" height="30" as="geometry" />
+        <UserObject label="Delphi 5" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1307">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="6440" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1355" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1308" target="UrL7DcTW2N4OfELLKphQ-1309">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UrL7DcTW2N4OfELLKphQ-1309" value="Delphi 7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6920" y="1200" width="80" height="30" as="geometry" />
+        <UserObject label="Delphi 6" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1308">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="6760" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1354" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1309" target="UrL7DcTW2N4OfELLKphQ-1310">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UrL7DcTW2N4OfELLKphQ-1310" value="Delphi 8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7080" y="1200" width="80" height="30" as="geometry" />
+        <UserObject label="Delphi 7" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1309">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="6920" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1353" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1310" target="UrL7DcTW2N4OfELLKphQ-1311">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <UserObject label="Delphi 8" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1310">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="7080" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1351" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1311" target="UrL7DcTW2N4OfELLKphQ-1312">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi 2005" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1311">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="7400" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1350" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1312" target="UrL7DcTW2N4OfELLKphQ-1313">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi 2006" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1312">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="7560" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1349" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1313" target="UrL7DcTW2N4OfELLKphQ-1314">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi 2007" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1313">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="7720" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1348" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1314" target="UrL7DcTW2N4OfELLKphQ-1315">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi 2009" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1314">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="7880" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1347" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1315" target="UrL7DcTW2N4OfELLKphQ-1316">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi 2010" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1315">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="8040" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1319" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1316" target="UrL7DcTW2N4OfELLKphQ-1317">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1320" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1316" target="UrL7DcTW2N4OfELLKphQ-1318">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8300" y="1215" />
+              <mxPoint x="8300" y="1175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Delphi XE" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1316">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="8200" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1328" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1317" target="UrL7DcTW2N4OfELLKphQ-1321">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi XE2" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1317">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="8360" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Delphi Starter Edition" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1318">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="8360" y="1160" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1329" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1321" target="UrL7DcTW2N4OfELLKphQ-1322">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi XE3" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1321">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="8520" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1330" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1322" target="UrL7DcTW2N4OfELLKphQ-1323">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi XE4" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1322">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="8680" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1331" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1323" target="UrL7DcTW2N4OfELLKphQ-1324">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8780" y="1295" />
+              <mxPoint x="8780" y="1215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Delphi XE5" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1323">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="8680" y="1280" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1332" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1324" target="UrL7DcTW2N4OfELLKphQ-1325">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi XE6" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1324">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="8840" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1333" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1325" target="UrL7DcTW2N4OfELLKphQ-1326">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8940" y="1295" />
+              <mxPoint x="8940" y="1215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Delphi XE7" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1325">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="8840" y="1280" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1334" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1326" target="UrL7DcTW2N4OfELLKphQ-1327">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi XE8" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1326">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="9000" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1338" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1327" target="UrL7DcTW2N4OfELLKphQ-1335">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9100" y="1295" />
+              <mxPoint x="9100" y="1215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Delphi 10 Seattle" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1327">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="9000" y="1280" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1339" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1335" target="UrL7DcTW2N4OfELLKphQ-1336">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi 10.1 Berlin" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1335">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="9160" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1343" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1336" target="UrL7DcTW2N4OfELLKphQ-1340">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi 10.2 Tokyo" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1336">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="9320" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1344" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1340" target="UrL7DcTW2N4OfELLKphQ-1341">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi 10.3 Rio" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1340">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="9480" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-1345" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="UrL7DcTW2N4OfELLKphQ-1341" target="UrL7DcTW2N4OfELLKphQ-1342">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delphi 10.4 Sydney" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1341">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="9800" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Delphi 10.5 Alexandria" tags="Delphi" id="UrL7DcTW2N4OfELLKphQ-1342">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="9960" y="1200" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="UrL7DcTW2N4OfELLKphQ-686" value="Years" style="locked=1;" parent="0" />
         <mxCell id="UrL7DcTW2N4OfELLKphQ-512" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontFamily=Helvetica;fontSize=12;fontColor=#F2F2F2;strokeColor=#CCCCCC;" edge="1" parent="UrL7DcTW2N4OfELLKphQ-686">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2147,16 +2355,16 @@
         <mxCell id="UrL7DcTW2N4OfELLKphQ-677" value="2021" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=#CCCCCC;" vertex="1" parent="UrL7DcTW2N4OfELLKphQ-686">
           <mxGeometry x="9890" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UrL7DcTW2N4OfELLKphQ-679" value="2023" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=#CCCCCC;" vertex="1" parent="UrL7DcTW2N4OfELLKphQ-686">
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-679" value="2022" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=#CCCCCC;" vertex="1" parent="UrL7DcTW2N4OfELLKphQ-686">
           <mxGeometry x="10050" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UrL7DcTW2N4OfELLKphQ-681" value="2024" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=#CCCCCC;" vertex="1" parent="UrL7DcTW2N4OfELLKphQ-686">
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-681" value="2023" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=#CCCCCC;" vertex="1" parent="UrL7DcTW2N4OfELLKphQ-686">
           <mxGeometry x="10210" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UrL7DcTW2N4OfELLKphQ-683" value="2025" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=#CCCCCC;" vertex="1" parent="UrL7DcTW2N4OfELLKphQ-686">
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-683" value="2024" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=#CCCCCC;" vertex="1" parent="UrL7DcTW2N4OfELLKphQ-686">
           <mxGeometry x="10370" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UrL7DcTW2N4OfELLKphQ-685" value="2026" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=#CCCCCC;" vertex="1" parent="UrL7DcTW2N4OfELLKphQ-686">
+        <mxCell id="UrL7DcTW2N4OfELLKphQ-685" value="2025" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;fontColor=#CCCCCC;" vertex="1" parent="UrL7DcTW2N4OfELLKphQ-686">
           <mxGeometry x="10530" y="10" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
